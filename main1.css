@@ -1,0 +1,161 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+input{
+    width: 95%;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border: 4px;
+    display: block;
+}
+label{
+    width: 30%;
+    padding: 0.5rem 1rem;
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 5px;
+}
+select{
+    width: 30%;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    padding: 0.5rem 1.5rem;
+
+}
+.wrap1{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-gruop1{
+    width: 500px;
+    margin: 30px auto ;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    height: 120px;
+}
+
+label[ha]{
+    display: block;
+    text-align: left;
+    width: 10%;
+}
+h2{
+    text-align: center;
+    color: gray;
+    position: relative;
+    left: -100px;
+}
+.barno{
+    display: inline-block;
+}
+#second{
+    position: relative;
+    left: 250px;
+    bottom: 55px;
+}
+#four{
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+}
+#six{
+    position: relative;
+    left: 250px;
+    bottom: 45px;
+}
+#ha{
+    display: inline-block;
+}
+.hasg{
+    width: 30%;
+}
+.nasiba{
+    width: 40%;
+    padding: 0.5rem 1.5rem;
+}
+.gg{
+    position: relative;
+    left: 100px;
+    bottom: 95px;
+}
+.jj{
+    position: relative;
+    left: 250px;
+    bottom: 150px;
+}
+.rr{
+    display: inline-block;
+    width: 40%;
+}
+.form-group2{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    height: 550px;
+}
+.dd{
+    width: 30%;
+}
+.ff{
+    width: 30%;
+    position: relative;
+    left: 150px;
+    bottom: 70px;
+}
+.tt{
+    width: 30%;
+    position: relative;
+    left: 300px;
+    bottom: 145px;
+}
+.form-group3{
+    width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    height: 130px;
+}
+.wrap3{
+    width: 1200px;
+    margin: 0 auto;
+}
+.dr{
+    text-align: left;
+    display: inline-block;
+}
+.ll{
+    position: relative;
+    left: 220px;
+    bottom: 100px;
+}
+.form-group4{
+    width: 500px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(80, 80, 80, 0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    height: 130px;
+}
+.wrap4{
+    width: 1200px;
+    margin: 0 auto;
+}
